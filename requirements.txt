@@ -1,3 +1,4 @@
 ipykernel
 lxml
 pandas
+python-dotenv
