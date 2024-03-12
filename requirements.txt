@@ -2,3 +2,4 @@ ipykernel
 lxml
 pandas
 python-dotenv
+openpyxl
