@@ -3,3 +3,4 @@ lxml
 pandas
 python-dotenv
 openpyxl
+jupyter
